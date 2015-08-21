@@ -1,0 +1,18 @@
+{
+  "name": "echo-argv",
+  "version": "0.0.0",
+  "description": "echo argv,demo学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echo-argv",
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argv": "0.0.2"
+  }
+}
