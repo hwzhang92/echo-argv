@@ -4,7 +4,7 @@
 ###目录结构（规范）说明##
 <pre>
 .
-├── README.md         #说明文件，markdown格式
+├── README.md         # 说明文件，markdown格式
 ├── bin               # 存放命令行相关代码
 ├── doc               # 存放文档
 ├── index.js          # 入口文件
